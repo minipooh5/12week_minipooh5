@@ -13,4 +13,5 @@
 
 | 필기파일 | 링크 |
 |---|---|
-| 12주차 | [w12.md](https://github.com/minipooh5/12week_minipooh5/blob/main/w12.md)|
+| 12주차 | [w12.md](https://github.com/minipooh5/12week_minipooh5/blob/main/notes/w12.md)|
+| 13주차 | [w13.md](https://github.com/minipooh5/12week_minipooh5/blob/main/notes/w13.md)|
