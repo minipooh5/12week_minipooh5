@@ -1,0 +1,17 @@
+user=$1
+now=$(who)
+
+if [ $# -ne 1 ]
+then 
+  echo 인수가 1개가 아님
+  exit 2
+  fi
+
+while [ -z $user ]
+do 
+  if [ $now -eq $user ]
+  then
+  echo $user 로그인함!
+    fi
+  sleep 60
+done
