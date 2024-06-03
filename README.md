@@ -15,3 +15,4 @@
 |---|---|
 | 12주차 | [w12.md](https://github.com/minipooh5/12week_minipooh5/blob/main/notes/w12.md)|
 | 13주차 | [w13.md](https://github.com/minipooh5/12week_minipooh5/blob/main/notes/w13.md)|
+| 14주차 | [w14.md](https://github.com/minipooh5/12week_minipooh5/blob/main/notes/w14.md)|
